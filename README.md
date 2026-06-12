@@ -185,13 +185,12 @@ Topics:
 ```
 01_Verilog_Fundamentals
 02_RTL_Design
-03_Verification
-04_APB_Interface
-05_CDC_RDC
-06_Yosys_Synthesis
-07_OpenSTA_Timing
-08_OpenLane_Physical_Design
-09_RISC-V_SoC
+03_APB_Interface
+04_CDC_RDC
+05_Yosys_Synthesis
+06_OpenSTA_Timing
+07_OpenLane_Physical_Design
+08_RISC-V_SoC
 ```
 
 ---
