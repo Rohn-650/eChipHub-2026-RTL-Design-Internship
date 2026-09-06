@@ -27,7 +27,6 @@ RTL Design, Verification and ASIC Design Flow experiments completed as part of t
 * AND Gate
 * 4x1 Multiplexer
 * Half Adder
-* Counter Design
 
 ### IP Integration
 
@@ -37,7 +36,6 @@ RTL Design, Verification and ASIC Design Flow experiments completed as part of t
 ### CDC Design
 
 * Two-Flip-Flop Synchronizer
-* Asynchronous FIFO
 
 ### ASIC Design Flow
 
